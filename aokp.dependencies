@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "J5-Dev/proprietary_vendor_samsung_j5nltexx",
+    "repository": "J5-Dev-Stable/proprietary_vendor_samsung_j5nltexx",
     "target_path": "vendor/samsung/j5nltexx"
     "branch": "cm-14.1"
   }
